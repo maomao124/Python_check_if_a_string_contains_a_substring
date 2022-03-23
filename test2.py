@@ -36,3 +36,5 @@ if __name__ == '__main__':
     print(str1.rindex("34", 6))
     print(str1.rindex("34", 13))
     # print(str1.rindex("34", 13, 15))
+
+    input()
